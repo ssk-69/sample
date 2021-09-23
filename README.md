@@ -1,24 +1,23 @@
-# README
+初めての簡単なtodo_appです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ローカルの開発環境構築からやりました。
+macスペック
+・MacBook Air (13-inch, 2017)
+.1.8 GHz デュアルコアIntel Core i5
+・8 GB 1600 MHz DDR3
 
-Things you may want to cover:
+使用した技術
+フロント
+・bootstrap
 
-* Ruby version
+バックエンド
+・ruby 2.7.4
+・Ruby on rails 6.1.4.1
+・sqlite3 1.4.2
 
-* System dependencies
 
-* Configuration
+機能
+・タスクの投稿
+・一覧の表示
+・タスクの削除
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
